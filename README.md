@@ -119,4 +119,4 @@ en master quantitatif.
 ---
 
 ## 9. Auteur
-Projet réalisé de manière autodidacte sur le site de COURSERA
+Projet réalisé de manière autodidacte par moi (abdel Moussa) sur le site de COURSERA
