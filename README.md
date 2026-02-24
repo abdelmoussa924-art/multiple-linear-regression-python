@@ -115,9 +115,8 @@ en master quantitatif.
 - numpy
 - matplotlib
 - statsmodels
-- scikit-learn (comparaison éventuelle)
 
 ---
 
 ## 9. Auteur
-Projet réalisé de manière autodidacte.
+Projet réalisé de manière autodidacte sur le site de COURSERA
